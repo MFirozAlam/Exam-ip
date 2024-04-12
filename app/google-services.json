@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6338321752",
+    "project_id": "mca-project-5316b",
+    "storage_bucket": "mca-project-5316b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6338321752:android:0db437b29d6f349553d92d",
+        "android_client_info": {
+          "package_name": "com.example.mcaproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW5QW84P4Q4SlSY_1D33eJfeO2FBuQ0f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
